@@ -12,6 +12,12 @@ table1 = [
   }, {
     id: 4,
     name: 'negaihoshi'
+  }, {
+    id: 5,
+    name: 'negaihoshi'
+  }, {
+    id: 6,
+    name: 'Jimmy'
   }
 ];
 table2 = [

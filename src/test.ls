@@ -8,7 +8,10 @@ table1 =
     name: 'donald'
   * id: 4
     name: 'negaihoshi'
-
+  * id: 5
+    name: 'negaihoshi'
+  * id: 6
+    name: 'Jimmy'
 
 table2 =
   * id: 2
